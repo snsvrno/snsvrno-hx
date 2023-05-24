@@ -1,6 +1,6 @@
 package sn;
 
-using tools.Strings;
+using sn.Strings;
 
 class Fs {
 	
