@@ -1,4 +1,4 @@
-package tools;
+package sn;
 
 using StringTools;
 

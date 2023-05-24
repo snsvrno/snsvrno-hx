@@ -1,4 +1,4 @@
-package tools;
+package sn;
 
 class Arrays {
 	public static function merge<T>(array1 : Array<T>, array2 : Array<T>) {
